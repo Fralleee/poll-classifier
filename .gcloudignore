@@ -1,0 +1,14 @@
+# This file specifies files and directories that should be ignored when
+# uploading your source code to Google Cloud Platform.
+
+# For more information, see `gcloud topic gcloudignore`.
+
+# Ignore the virtual environment folder
+venv/
+
+# Ignore macOS hidden files
+.DS_Store
+
+# Ignore all log files and the logs directory
+logs
+*.log
